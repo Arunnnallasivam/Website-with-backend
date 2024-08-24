@@ -1,0 +1,11 @@
+.col-md-4:hover .btn-outline-secondary{
+	color: #f1f1f1;
+	border-radius: 7px 30px;
+	border-width: 2px 0px;
+	border-color: #f1f1f1;
+}
+
+.btn-outline-secondary:hover{
+	background-color: #262626;
+	opacity: 0.95;
+}
